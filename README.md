@@ -13,7 +13,7 @@ This repository includes C# fundamentals practices and SQL CRUD processes.
 - Methods
 - Input / output
 
------------
+---
 
 - SQL Connection
 - Create / read / update / delete
