@@ -1,0 +1,8 @@
+C:\Users\YUSUF SEZGİN\Desktop\CSharp_Practice\Practice1\bin\Debug\Practice1.exe.config
+C:\Users\YUSUF SEZGİN\Desktop\CSharp_Practice\Practice1\bin\Debug\Practice1.exe
+C:\Users\YUSUF SEZGİN\Desktop\CSharp_Practice\Practice1\bin\Debug\Practice1.pdb
+C:\Users\YUSUF SEZGİN\Desktop\CSharp_Practice\Practice1\obj\Debug\Practices.csproj.AssemblyReference.cache
+C:\Users\YUSUF SEZGİN\Desktop\CSharp_Practice\Practice1\obj\Debug\Practice1.exe.config
+C:\Users\YUSUF SEZGİN\Desktop\CSharp_Practice\Practice1\obj\Debug\Practices.csproj.CoreCompileInputs.cache
+C:\Users\YUSUF SEZGİN\Desktop\CSharp_Practice\Practice1\obj\Debug\Practice1.exe
+C:\Users\YUSUF SEZGİN\Desktop\CSharp_Practice\Practice1\obj\Debug\Practice1.pdb

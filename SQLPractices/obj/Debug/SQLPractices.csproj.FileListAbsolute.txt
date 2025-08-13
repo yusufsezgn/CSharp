@@ -1,0 +1,8 @@
+C:\Users\YUSUF SEZGİN\Desktop\CSharp_Practice\SQLPractices\bin\Debug\SQLPractices.exe.config
+C:\Users\YUSUF SEZGİN\Desktop\CSharp_Practice\SQLPractices\bin\Debug\SQLPractices.exe
+C:\Users\YUSUF SEZGİN\Desktop\CSharp_Practice\SQLPractices\bin\Debug\SQLPractices.pdb
+C:\Users\YUSUF SEZGİN\Desktop\CSharp_Practice\SQLPractices\obj\Debug\SQLPractices.csproj.AssemblyReference.cache
+C:\Users\YUSUF SEZGİN\Desktop\CSharp_Practice\SQLPractices\obj\Debug\SQLPractices.csproj.CoreCompileInputs.cache
+C:\Users\YUSUF SEZGİN\Desktop\CSharp_Practice\SQLPractices\obj\Debug\SQLPractices.exe
+C:\Users\YUSUF SEZGİN\Desktop\CSharp_Practice\SQLPractices\obj\Debug\SQLPractices.pdb
+C:\Users\YUSUF SEZGİN\Desktop\CSharp_Practice\SQLPractices\obj\Debug\SQLPractices.exe.config
