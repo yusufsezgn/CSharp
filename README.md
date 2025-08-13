@@ -1,11 +1,11 @@
 
 # C# Fundamentals Practices
-----
+
 This repository includes C# fundamentals practices and SQL CRUD processes.
 
 
 ## Content
------
+
 - Data variables
 - Loops
 - Decision structure
@@ -13,5 +13,5 @@ This repository includes C# fundamentals practices and SQL CRUD processes.
 - Methods
 - Input / output
 - SQL Connection
-- Create / read / update / delete
+- SQL CRUD processes
   
